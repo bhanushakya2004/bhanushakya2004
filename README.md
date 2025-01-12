@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurnlF7kEaAd5gQ-7c588sQ_ddkxBxBXzbOD0ZbDGiNuVIShv-Juz6yjLPXV7u4_JRjgI&usqp=CAU)
+![MasterHead](./github-header-image.png)
 
 <h1 align="center">Hello, I'm Bhanu Shakya 👋</h1>
 <h3 align="center">Passionate MERN Stack Developer | Problem Solver</h3>
