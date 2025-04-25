@@ -2,7 +2,7 @@
 Passionate Full Stack Developer with experience in building **end-to-end encrypted chat services**. Currently dedicated in **improving my DSA skills** to become a better problem solver and deliver more efficient, scalable solutions.
 
 # Skills
-**Frontend** - Html, Css, React Js, Javascript, Typescript, Nextjs14, Tailwind, Framer-motion
+**Frontend** - Html, Css, React Js, Javascript, Typescript, Tailwind
 
 **Backend** - Node.js, Express, WebSockets, OAuth, Zod, Passport.js
 
@@ -22,12 +22,12 @@ Passionate Full Stack Developer with experience in building **end-to-end encrypt
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushakya2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RishiBakshii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bhanushakya2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RishiBakshii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bhanushakya2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RishiBakshii&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bhanushakya2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
