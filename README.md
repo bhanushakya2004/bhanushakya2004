@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanushakya2004&label=Profile%20views&color=0e75b6&style=flat" alt="bhanushakya2004" /> </p>
 
-- 🔭 I’m currently working on [BidMate](https://github.com/bhanushakya2004/BidMate)
+- 🔭 I’m currently working on [HealthMate](https://github.com/bhanushakya2004/health-chatbot)
 
 - 🌱 I’m currently learning **Agentic AI and Backend Designs**
 
